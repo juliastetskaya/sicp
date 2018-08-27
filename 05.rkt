@@ -1,0 +1,15 @@
+#lang racket
+
+(require rackunit)
+
+(define (p) (p))
+
+(define (test x y)
+  (if (= x 0)
+       0
+       y))
+
+(check-equal? (test 0 (p)) 0)
+
+// При нормальном порядке вычислений результат будет 0,
+при аппликативном - произойдет зацикливание.
