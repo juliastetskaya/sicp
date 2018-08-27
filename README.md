@@ -9,3 +9,5 @@
 [Exercise 1.2](https://github.com/juliastetskaya/sicp/blob/master/02.rkt)
 
 [Exercise 1.3](https://github.com/juliastetskaya/sicp/blob/master/03.rkt)
+
+[Exercise 1.4](https://github.com/juliastetskaya/sicp/blob/master/04.rkt)
