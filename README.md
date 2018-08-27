@@ -7,3 +7,5 @@
 [Exercise 1.1](https://github.com/juliastetskaya/sicp/blob/master/01.rkt)
 
 [Exercise 1.2](https://github.com/juliastetskaya/sicp/blob/master/02.rkt)
+
+[Exercise 1.3](https://github.com/juliastetskaya/sicp/blob/master/03.rkt)
