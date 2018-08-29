@@ -19,3 +19,5 @@
 [Exercise 1.7](https://github.com/juliastetskaya/sicp/blob/master/07.rkt)
 
 [Exercise 1.8](https://github.com/juliastetskaya/sicp/blob/master/08.rkt)
+
+[Exercise 1.9](https://github.com/juliastetskaya/sicp/blob/master/09.rkt)
