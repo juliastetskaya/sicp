@@ -21,3 +21,5 @@
 [Exercise 1.8](https://github.com/juliastetskaya/sicp/blob/master/08.rkt)
 
 [Exercise 1.9](https://github.com/juliastetskaya/sicp/blob/master/09.rkt)
+
+[Exercise 1.10](https://github.com/juliastetskaya/sicp/blob/master/10.rkt)
