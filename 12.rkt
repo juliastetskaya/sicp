@@ -1,0 +1,30 @@
+#lang racket
+
+(require rackunit)
+
+(define (func row column)
+  (if (or (= column 1) (= row column))
+      1
+      (+ (func (- row 1) (- column 1)) (func (- row 1) column))))
+
+(check-equal? (func 1 1) 1)
+(check-equal? (func 2 1) 1)
+(check-equal? (func 2 2) 1)
+(check-equal? (func 3 1) 1)
+(check-equal? (func 3 2) 2)
+(check-equal? (func 3 3) 1)
+(check-equal? (func 4 1) 1)
+(check-equal? (func 4 2) 3)
+(check-equal? (func 4 3) 3)
+(check-equal? (func 4 4) 1)
+(check-equal? (func 5 1) 1)
+(check-equal? (func 5 2) 4)
+(check-equal? (func 5 3) 6)
+(check-equal? (func 5 4) 4)
+(check-equal? (func 5 5) 1)
+(check-equal? (func 6 1) 1)
+(check-equal? (func 6 2) 5)
+(check-equal? (func 6 3) 10)
+(check-equal? (func 6 4) 10)
+(check-equal? (func 6 5) 5)
+(check-equal? (func 6 6) 1)
