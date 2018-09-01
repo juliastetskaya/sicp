@@ -33,3 +33,5 @@
 [Exercise 1.16](https://github.com/juliastetskaya/sicp/blob/master/16.rkt)
 
 [Exercise 1.17](https://github.com/juliastetskaya/sicp/blob/master/17.rkt)
+
+[Exercise 1.18](https://github.com/juliastetskaya/sicp/blob/master/18.rkt)
