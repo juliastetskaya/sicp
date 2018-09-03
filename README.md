@@ -41,3 +41,5 @@
 [Exercise 1.20](https://github.com/juliastetskaya/sicp/blob/master/20.rkt)
 
 [Exercise 1.21](https://github.com/juliastetskaya/sicp/blob/master/21.rkt)
+
+[Exercise 1.22](https://github.com/juliastetskaya/sicp/blob/master/22.rkt)
