@@ -44,4 +44,4 @@
 
 [Exercise 1.22](https://github.com/juliastetskaya/sicp/blob/master/22.rkt)
 
-[Exercise 1.23](https://github.com/juliastetskaya/sicp/blob/master/22.rkt)
+[Exercise 1.23](https://github.com/juliastetskaya/sicp/blob/master/23.rkt)
